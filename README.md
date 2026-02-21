@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+
+
+<img src = "https://github.com/user-attachments/assets/d0567e71-5994-4f87-aea8-0bdcfd977418"  width = 200px height = 600px>
+
+
 <!--
 **rahana-19/rahana-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
